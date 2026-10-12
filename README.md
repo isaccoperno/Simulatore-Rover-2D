@@ -1,1 +1,1 @@
-# Simulatore-Rover-2D
+Simulatore di un rover in 2D in cui proviamo a comandarlo, creando una classe rover e proviamo a farli eseguire dei movimenti, provando poi a plottare il tutto alla fine del programma
